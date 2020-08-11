@@ -70,6 +70,10 @@ jobs:
           CONFIG_PACKAGE_pv=y
           CONFIG_PACKAGE_pigz=y
           CONFIG_PACKAGE_unzip=y
+          CONFIG_PACKAGE_luci-app-firewall=y
+          CONFIG_PACKAGE_luci-app-mwan3=y
+          CONFIG_PACKAGE_luci-app-mwan3helper=y
+          CONFIG_PACKAGE_luci-app-syncdial=y
           CONFIG_PACKAGE_losetup=y
           CONFIG_PACKAGE_luci-app-frpc=y
           CONFIG_PACKAGE_luci-app-netdata=y
